@@ -105,6 +105,11 @@ Specialized tools for specific platforms and use cases.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📱 🏠 - Obsidian vault integration
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Shell execution and computer control
 
+### Finance & Payments 💰
+Tools for payments, DeFi, and financial integrations.
+
+- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel) 🐍 ☁️ - Solana agent trust scoring and x402 micropayment verification: free on-chain preflight checks + paid signed trust receipts via [intel.twzrd.xyz](https://intel.twzrd.xyz)
+
 ## Community Resources
 
 Want to ask Claude about Model Context Protocol? Add this file to your project:
